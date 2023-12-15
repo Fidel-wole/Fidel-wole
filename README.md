@@ -1,4 +1,4 @@
-###Hi, I'm Fidel 👋
+Hi, I'm Fidel 👋
 
 
 I’m a software engineer with concentration in Backend Web, I am also an Open Source contributor. I love writing Node js, JavaScript, and Typescript. I work as a backend engineer building large-scale distributed systems. Outside of my passion for building large-scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
