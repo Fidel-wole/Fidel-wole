@@ -6,9 +6,9 @@ Web Developer
 
 I’m a software engineer with concentration in Backend Web, I am also an Open Source contributor. I love writing Node js, JavaScript, and Typescript. I work as a backend engineer building large-scale distributed systems. Outside of my passion for building large-scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
 
-*   ✉️  You can contact me at [adewoyeadedayo10@gmail.com](mailto:adewoyeadedayo10@gmail.com)
+*   ✉️  You can contact me at [fidelwole@gmail.com](mailto:fidelwole@gmail.com)
 *   🚀  I'm currently working on [Cliqpod](http://cliqpod.co)
-*   🧠  I'm learning Golang
+*   🧠  I'm learning Data Science
 *   🤝  I'm open to collaborating on any Nodejs project
 *   ⚡  I’m looking to collaborate on any Nodejs project### Skills 
 <p align="left">
@@ -18,7 +18,7 @@ I’m a software engineer with concentration in Backend Web, I am also an Open S
                   ### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                       <a href="https://www.github.com/https://github.com/Fidel-wole" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
