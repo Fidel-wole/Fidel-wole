@@ -8,7 +8,7 @@ I’m a software engineer with concentration in Backend Web, I am also an Open S
 
 *   ✉️  You can contact me at [fidelwole@gmail.com](mailto:fidelwole@gmail.com)
 *   🚀  I'm currently working on [Cliqpod](http://cliqpod.co)
-*   🧠  I'm learning Data Science
+*   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on any Nodejs project
 *   ⚡  I’m looking to collaborate on any Nodejs project### Skills 
 Skills
