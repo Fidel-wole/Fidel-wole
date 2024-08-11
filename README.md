@@ -10,7 +10,7 @@ I’m a software engineer with concentration in Backend Web, I am also an Open S
 *   🚀  I’m looking to collaborate on any (Nodejs || Golang) project.
 *   🧠  I'm currently learning Golang
 *   💬  Ask me about Math, Backend development, System design, TypeScript, Golang.
-*   ⚡  I’m looking to collaborate on any Nodejs project### Skills 
+ 
 Skills
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -44,3 +44,8 @@ Badges
 <a href="https://github.com/Fidel-wole" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fidel-wole&theme=dark&hide_border=true&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7600&currStreakLabel=ffffff" alt="GitHub Streak Stats" />
 </a>
+
+<a href="https://github.com/Fidel-wole" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidel-wole&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Most Used Languages" />
+</a>
+
