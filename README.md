@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidelis
 =============================================================================================================================
 
-Web Developer
+Software Engineer
 -------------
 
 I’m a software engineer with concentration in Backend Web, I am also an Open Source contributor. I love writing Node js, JavaScript, and Typescript. I work as a backend engineer building large-scale distributed systems. Outside of my passion for building large-scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
@@ -10,6 +10,7 @@ I’m a software engineer with concentration in Backend Web, I am also an Open S
 *   🚀  I’m looking to collaborate on any (Nodejs || Golang) project.
 *   🧠  I'm currently learning Golang
 *   💬  Ask me about Math, Backend development, System design, TypeScript, Golang.
+*   ⚡  Fun fact: I love animes, and reading how things work
  
 Skills
 <p align="left">
