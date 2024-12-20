@@ -8,7 +8,7 @@ A software engineer with concentration in Backend Systems, I am also an Open Sou
 
 *   ✉️  You can contact me at [fidelwole@gmail.com](mailto:fidelwole@gmail.com)
 *   🚀  I’m looking to collaborate on any (Nodejs || Golang) project.
-*   🧠  I'm currently learning Golang
+*   🧠  I'm currently learning Distributed Systems and Cloud computing.
 *   💬  Ask me about Math, Backend development, System design, TypeScript, Golang.
 *   ⚡  Fun fact: I love animes, and reading how things work
  
