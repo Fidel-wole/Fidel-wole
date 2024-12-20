@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------
 
-I’m a software engineer with concentration in Backend Web, I am also an Open Source contributor. I love writing Node js, JavaScript, and Typescript. I work as a backend engineer building large-scale distributed systems. Outside of my passion for building large-scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
+A software engineer with concentration in Backend Systems, I am also an Open Source contributor. I love writing Golang, JavaScript, and Typescript.
 
 *   ✉️  You can contact me at [fidelwole@gmail.com](mailto:fidelwole@gmail.com)
 *   🚀  I’m looking to collaborate on any (Nodejs || Golang) project.
